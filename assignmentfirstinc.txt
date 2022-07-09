@@ -1,4 +1,4 @@
-//PROGRAM-1
+//PROGRAM-1 Write a program to print Hello Students on the screen:-
 #include<stdio.h>
 int main()
 {
@@ -7,7 +7,8 @@ return 0;
 }
 
 
-//PROGRAM-2
+
+//PROGRAM-2 write a program to print Hello in the first line and Students in the second line:-
 #include<stdio.h>
 int main()
 {
@@ -16,7 +17,8 @@ return 0;
 }
 
 
-//PROGRAM-3
+
+//PROGRAM-3  Write a program to print “MySirG” on the screen:-
 #include<stdio.h>
 int main()
 {
@@ -25,7 +27,8 @@ return 0;
 }
 
 
-//PROGRAM-4
+
+//PROGRAM-4 wAP to find the area of the circle. Take radius of circle from user as input and print the result in below given format:-
 #include<stdio.h>
 int main()
 {
@@ -38,7 +41,8 @@ return 0;
 }
 
 
-//PROGRAM-5
+
+//PROGRAM-5 WAP to calculate the length of String using printf function.:-
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -51,7 +55,8 @@ return 0;
 }
 
 
-//PROGRAM-6
+
+//PROGRAM-6 WAP to print the name of the user in double quotes with Hello:-
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -64,7 +69,7 @@ return 0;
 }
 
 
-//PROGRAM-7
+//PROGRAM-7 WAP to print “%d” on the screen:-
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -75,7 +80,8 @@ return 0;
 }
 
 
-//PROGRAM-8
+
+//PROGRAM-8 WAP to print “\n” on the screen:-
 #include<stdio.h>
 int main()
 {
@@ -84,7 +90,8 @@ return 0;
 }
 
 
-\\program-9
+
+\\PROGRAM-9 WAP to print “\\” on the screen:-
 #include<stdio.h>
 int main()
 {
@@ -93,7 +100,8 @@ return 0;
 }
 
 
-//PROGRAM-10
+
+//PROGRAM-10 WAP to take date as an input in below given format and convert the date format:-
 #include<stdio.h>
 int main()
 {
@@ -105,7 +113,8 @@ return 0;
 }
 
 
-//PROGRAM-11
+
+//PROGRAM-11 WAP to take time as an input in below given format and convert the time format:-
 #include<stdio.h>
 int main()
 {
@@ -117,7 +126,8 @@ return 0;
 }
 
 
-//PROGRAM-12
+
+//PROGRAM-12 Find output of below code:-
 #include<stdio.h>
 int main()
 {
