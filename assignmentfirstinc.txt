@@ -91,7 +91,7 @@ return 0;
 
 
 
-\\PROGRAM-9 WAP to print “\\” on the screen:-
+//PROGRAM-9 WAP to print “\\” on the screen:-
 #include<stdio.h>
 int main()
 {
@@ -136,4 +136,4 @@ printf(“%d”,x);
 return 0;
 }
 
-NO output , WILL SHOW ERROR
+//NO output , WILL SHOW ERROR
